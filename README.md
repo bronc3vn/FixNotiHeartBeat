@@ -1,3 +1,3 @@
-1 Click, Cấp Quyền, Done
-Dùng kẹp với FCM Guard hoặc Niti Guard
-hết mô tả
+# 1 Click, Cấp Quyền, Done
+# Dùng kẹp với FCM Guard hoặc Noti Guard
+# Hết mô tả
